@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (XLICON-V2-MD)",
+  "name": "꧁༺𝙺𝚁𝙸𝚇𝚃𝙾𝙼༻꧂",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -20,12 +20,12 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
